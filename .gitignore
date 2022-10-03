@@ -53,4 +53,4 @@ rsconnect/
 *.html
 
 # Exclusion du dossier data
-*data
+data/
